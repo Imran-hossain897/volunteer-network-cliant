@@ -15,7 +15,7 @@ const VolunteerRegister = () => {
     const onSubmit = (data, e) => {
         history.push("/volunteerDetails")
         const information=  { ...loggInUser,  organzetion: e.target.organzetion.value, date:e.target.date.value}
-        fetch('http://localhost:5000/addVolunteer', {
+        fetch('https://blooming-inlet-30776.herokuapp.com/addVolunteer', {
             method: "POST",
             headers: {'Content-Type': 'application/json'},
             body: JSON.stringify(information)

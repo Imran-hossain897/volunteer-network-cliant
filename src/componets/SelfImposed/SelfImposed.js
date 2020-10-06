@@ -7,7 +7,7 @@ const SelfImposed = (props) => {
     const { organzetion, date, _id } = props.user
     const [remove, setRemove] = useState(" ")
   const handleSubmit = (id) =>{
-    fetch(`http://localhost:5000/delet/${_id}`, {
+    fetch(`https://blooming-inlet-30776.herokuapp.com/delet/${_id}`, {
         method: 'DELETE'
     })
         .then(res=>res.json())
