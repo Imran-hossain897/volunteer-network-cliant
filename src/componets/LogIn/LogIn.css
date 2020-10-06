@@ -1,0 +1,43 @@
+.loginForm{
+    width: 570px;
+    height: 457px;
+    padding: 20px;
+    margin-top: 100px;
+    margin-left: 400px;
+    background: #FFFFFF;
+    border: 1px solid #ABABAB;
+    box-sizing: border-box;
+    border-radius: 4px;
+
+    
+}
+.logInImage{
+border: 1px solid #C7C7C7;
+box-sizing: border-box;
+ border-radius: 57px;
+border-radius: 57px;
+width: 457px;
+height: 51px;
+margin-bottom: 20px;
+padding: 10px;
+}
+.loginForm img{
+    width: 31px;
+}
+.sign-design{
+    margin-top: 150px;
+
+ }
+ .sign-design h3 {
+     text-align: center;
+     margin-bottom: 30px;
+ }
+ .continue{
+     margin-left: 150px;
+ }
+ .logostyle{
+    width: 202.81px;
+    height: 60px;
+    margin-left: 575px;
+    margin-top: 30px;
+ }

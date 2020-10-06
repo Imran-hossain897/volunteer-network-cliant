@@ -1,0 +1,32 @@
+.logo-style{
+    width: 202.81px;
+    height: 60px;
+    margin-left: 425px;
+    margin-top: 30px;
+}
+.register-style{
+position: absolute;
+width: 400px;
+height: 380px;
+left: 550px;
+top: 130px;
+background: #FFFFFF;
+border: 1px solid #ABABAB;
+box-sizing: border-box;
+border-radius: 4px;
+padding: 20px;
+padding-top: 10px;
+font-family: Montserrat;
+}
+.font-color{
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.input-style{
+    border: none;
+    border-bottom: 1px solid #ABABAB;
+    width: 300px;
+    margin-bottom: 20px;
+    font-family: Montserrat;
+    outline: none;
+}

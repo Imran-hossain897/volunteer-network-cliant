@@ -1,0 +1,26 @@
+.text-dark{
+    color: black;
+}
+.input-slice{
+    background: #FBFBFB;
+border: 1px solid #D6D6D6;
+box-sizing: border-box;
+outline: none;
+width: 280px;
+border-radius: 4px 0  0 4px;
+margin-left: 70px;
+}
+.group{
+    margin: 30px 300px;
+}
+.text-design{
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 50px;
+
+text-transform: uppercase;
+
+
+}
